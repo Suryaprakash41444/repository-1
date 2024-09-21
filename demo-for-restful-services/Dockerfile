@@ -11,3 +11,4 @@ print(x)
 CMD ["java", "-jar", "demo-for-restful-services.jar"]
 Print (y)
 x =t
+x = 4
