@@ -7,4 +7,5 @@ COPY ./target/demo-for-restful-services.jar /app
 # Expose the port the Spring Boot application will run on
 EXPOSE 8080
 # Command to run the application
+print(x)
 CMD ["java", "-jar", "demo-for-restful-services.jar"]
